@@ -19,8 +19,8 @@
 
 Не забудьте написать авто-тест на взаимодействие с DOM на базе Puppeteer или JSDOM (на ваш выбор).
 
-[![Build status](https://ci.appveyor.com/api/projects/status/g6bb55s7392bpre0?svg=true)](https://ci.appveyor.com/project/bel-lov/)
+[![Build status](https://ci.appveyor.com/api/projects/status/g6bb55s7392bpre0?svg=true)](https://ci.appveyor.com/project/bel-lov/Tooltip)
 
 
-## https://bel-lov.github.io//
+## https://bel-lov.github.io/Tooltip/
 

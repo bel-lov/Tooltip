@@ -51,10 +51,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bel-lov/Popovers.git"
+    "url": "git+https://github.com/bel-lov/Tooltip.git"
   },
   "bugs": {
-    "url": "https://github.com/bel-lov/Popovers/issues"
+    "url": "https://github.com/bel-lov/Tooltip/issues"
   },
-  "homepage": "https://github.com/bel-lov/Popovers#readme"
+  "homepage": "https://github.com/bel-lov/Tooltip#readme"
 }
